@@ -1,0 +1,24 @@
+{
+  "name": "vite-ts-vue3-antdv-less",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.14"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "less": "^4.1.2",
+    "typescript": "^4.5.4",
+    "vite": "^2.9.5",
+    "vite-plugin-components": "^0.13.3",
+    "vue-tsc": "^0.34.7",
+    "vuex": "^4.0.2"
+  }
+}
