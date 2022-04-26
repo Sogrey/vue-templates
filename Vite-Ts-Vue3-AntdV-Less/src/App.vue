@@ -9,8 +9,8 @@ import HelloWorld from './components/HelloWorld.vue'
     <HelloWorld msg="Hello Vue 3 + TypeScript + Vite" />
 
     <!-- 路由链接 -->
-    <router-link to="/">Index</router-link>
-    <router-link to="/user">User</router-link>
+    <router-link to="/"><button>Index</button></router-link>
+    <router-link to="/user"><button>User</button></router-link>
 
     <!-- 路由内容展示区域 -->
     <router-view class='app-router-content' />
