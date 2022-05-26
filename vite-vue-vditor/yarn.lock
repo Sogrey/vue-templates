@@ -373,10 +373,10 @@ typescript@^4.5.4:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.6.4.tgz#caa78bbc3a59e6a5c510d35703f6a09877ce45e9"
   integrity sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==
 
-vditor@^3.8.14:
-  version "3.8.14"
-  resolved "https://registry.yarnpkg.com/vditor/-/vditor-3.8.14.tgz#634c43d5c0c994e80d0dfe555b284d6dd78780c2"
-  integrity sha512-vJ6Fb89bgp5s2mbLwAOSVH4tXC+bmhd1XUWgO/s91KR3vqBn5mr6mJkMJeqM1/9IEUC1I4H6+d/Bd4yphqFhwA==
+vditor@^3.8.15:
+  version "3.8.15"
+  resolved "https://registry.yarnpkg.com/vditor/-/vditor-3.8.15.tgz#de340bdaa33264e7a5c303d9e97dd99fd043fec9"
+  integrity sha512-BYSBNUuhtvOfu1OU+NhS7R6TcrNP0UmQ8Vtbzq9BnLoG1uIHPZaTjtJIv00OPqHEcZa4KpR7mU+n9P+i+9SHuA==
   dependencies:
     diff-match-patch "^1.0.5"
 

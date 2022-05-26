@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vditor": "^3.8.14",
+    "vditor": "^3.8.15",
     "vue": "^3.2.25"
   },
   "devDependencies": {
